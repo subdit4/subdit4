@@ -1,5 +1,3 @@
-
-
 #EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -3101,81 +3099,81 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpNcFYDxwhx3zcHsT2fxxhA?
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpNcFYDxwhx3zcHsT2fxxhA
 
 #EXTM3U
-#EXTINF:-1,US: FOX SPORTS 1
+#EXTINF:-1 group-title="FOXSPORTS",US: FOX SPORTS 1
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/509106
-#EXTINF:-1,US: FOX SPORTS 2
+#EXTINF:-1 group-title="FOXSPORTS",US: FOX SPORTS 2
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/509107
-#EXTINF:-1,US: CBS SPORTS NETWORK
+#EXTINF:-1 group-title="CBSSPORTS",US: CBS SPORTS NETWORK
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/509089
-#EXTINF:-1,US:  CBS SPORTS HQ
+#EXTINF:-1 group-title="CBSSPORTS",US:  CBS SPORTS HQ
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/433795
-#EXTINF:-1,US: ALTITUDE SPORTS
+#EXTINF:-1 group-title="CBSSPORTS",US: ALTITUDE SPORTS
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418152
-#EXTINF:-1,US: AT&T SPORTSNET SOUTHWEST
+#EXTINF:-1 group-title="CBSSPORTS",US: AT&T SPORTSNET SOUTHWEST
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418153
-#EXTINF:-1,US: ATT SPORTSNET PITTSBURGH
+#EXTINF:-1 group-title="CBSSPORTS",US: ATT SPORTSNET PITTSBURGH
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418143
-#EXTINF:-1,US: BallySPORTS CAROLINAS US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySPORTS CAROLINAS US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418226
-#EXTINF:-1,US: BallySports Cincinnati us
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Cincinnati us
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418220
-#EXTINF:-1,US: BallySports Detroit Plus
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Detroit Plus
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418256
-#EXTINF:-1,US: BallySports Detroit US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Detroit US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418221
-#EXTINF:-1,US: BallySports Florida
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Florida
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418223
-#EXTINF:-1,US: BallySports Great Lakes US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Great Lakes US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418224
-#EXTINF:-1,US: BallySports Indiana
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Indiana
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418225
-#EXTINF:-1,US: BallySports Kansas City Plus US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Kansas City Plus US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418228
-#EXTINF:-1,US: BallySports Kansas City US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Kansas City US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418227
-#EXTINF:-1,US: BallySports Midwest Plus US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Midwest Plus US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418230
-#EXTINF:-1,US: BallySports Midwest US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Midwest US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418229
-#EXTINF:-1,US: BallySports New Orleans Plus US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports New Orleans Plus US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418232
-#EXTINF:-1,US: BallySports New Orleans US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports New Orleans US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418231
-#EXTINF:-1,US: BallySports North
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports North
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418233
-#EXTINF:-1,US: BallySports North Plus US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports North Plus US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418234
-#EXTINF:-1,US: BallySports Ohio US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Ohio US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418235
-#EXTINF:-1,US: BallySports Ohio Plus US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Ohio Plus US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418236
-#EXTINF:-1,US: BallySports Oklahoma US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Oklahoma US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418237
-#EXTINF:-1,US: Bally Sports Oklahoma Plus
+#EXTINF:-1 group-title="BallySPORTS",US: Bally Sports Oklahoma Plus
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418238
-#EXTINF:-1,US: BallySports San Diego US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports San Diego US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418239
-#EXTINF:-1,US: BallySports Socal US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Socal US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418241
-#EXTINF:-1,US: BallySports South Plus US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports South Plus US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418243
-#EXTINF:-1,US: BallySports South US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports South US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418242
-#EXTINF:-1,US: BallySports Southeast US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Southeast US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418244
-#EXTINF:-1,US: Bally Sports Southwest
+#EXTINF:-1 group-title="BallySPORTS",US: Bally Sports Southwest
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418245
-#EXTINF:-1,US: BallySPORTS SUN SOUTH US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySPORTS SUN SOUTH US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418246
-#EXTINF:-1,US: BallySports Sun US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Sun US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418247
-#EXTINF:-1,US: BallySports Tennessee US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Tennessee US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418222
-#EXTINF:-1,US: BallySPORTS WEST
+#EXTINF:-1 group-title="BallySPORTS",US: BallySPORTS WEST
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418251
-#EXTINF:-1,US: BallySports Wisconsin Plus
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Wisconsin Plus
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418257
-#EXTINF:-1,US: BallySports Wisconsin US
+#EXTINF:-1 group-title="BallySPORTS",US: BallySports Wisconsin US
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418249
 #EXTINF:-1,US: CBS SPORTS NETWORK
 http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/418177
