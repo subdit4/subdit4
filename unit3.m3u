@@ -1,17 +1,4 @@
-#EXTM3U url=""
-# ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
-# █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-11-06 10:04:00 GMT+7 "
-# (●) Service: Playlist24
-# (●) Total Channels: Null
-
-//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> INDONESIA TV
-//========================================================================
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
