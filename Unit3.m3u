@@ -1,7 +1,24 @@
 #EXTM3U
-========== DAZN SPORT ==========
-
-#EXTM3U
+#EXTINF:-1 group-title="Dazn Sport" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn1.png",DAZN 1 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#EXTINF:-1 group-title="Dazn Sport" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn2.png",DAZN 2 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+#EXTINF:-1 group-title="Dazn Sport" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn3.png",DAZN 3 Direto
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+#EXTINF:-1 group-title="Dazn Sport",IT: ZONA DAZN
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1048
 #EXTINF:-1 group-title="Dazn Sport",ES: DAZN 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/247
 #EXTINF:-1 group-title="Dazn Sport",ES: DAZN 1 SD
@@ -82,18 +99,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128976
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128977
 #EXTINF:-1 group-title="Dazn Sport",FR: DAZN EVENT 20
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128978
-#EXTINF:-1 group-title="Dazn Sport",IT: ZONA DAZN
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1048
-#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Inter TV
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97240
-#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Milan TV
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97241
-#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | NFL Network
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97242
-#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Red Bull TV
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97243
-#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Unbeaten
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97244
 #EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Eurosport 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97245
 #EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Eurosport 2
@@ -142,6 +147,16 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97269
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97216
 #EXTINF:-1 group-title="Dazn Sport",DE: DAZN 2 HD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97217
+#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Inter TV
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97240
+#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Milan TV
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97241
+#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | NFL Network
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97242
+#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Red Bull TV
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97243
+#EXTINF:-1 group-title="Dazn Sport",IT: DAZN | Unbeaten
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97244
 #EXTINF:-1 group-title="Dazn Sport",DE: DAZN Unbeaten
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99247
 #EXTINF:-1 group-title="Dazn Sport",DE: DAZN MLB Network
@@ -302,11 +317,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/254
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97192
 #EXTINF:-1 group-title="Dazn Sport",ES: M+ LALIGA TV BAR
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/283
-
-
-========== ELEVEN SPORTS ==========
-
-
 #EXTINF:-1 group-title="ELEVEN SPORTS",PT: Eleven 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99475
 #EXTINF:-1 group-title="ELEVEN SPORTS",PT: Eleven 2
@@ -339,184 +349,31 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34792
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34921
 #EXTINF:-1 group-title="ELEVEN SPORTS",TW: ELEVEN体育1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34922
-
-
-========== COSMOTE SPORTS ==========
-
-
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1988
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1989
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1990
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1991
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1992
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1993
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1994
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1995
-#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1996
-
-
-========== NOVA SPORTS ==========
-
-
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORTS PRIME
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1983
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1984
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1985
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1986
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1987
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128954
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128953
-#EXTINF:-1 group-title="NOVA SPORTS",BH: Nova Sport
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115062
-#EXTINF:-1 group-title="NOVA SPORTS",SRB: Nova Sport
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115023
-#EXTINF:-1 group-title="NOVA SPORTS",BE: NOVA SPORT
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3139
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2243
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2244
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2210
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2211
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA ACTION
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2212
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA CINEMA
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2213
-#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA GOLD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2214
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2042
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 2 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2043
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2044
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2045
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 5 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2046
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 6 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2118
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2047
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 8 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2119
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2048
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 10 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2049
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 11 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2120
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 12 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2121
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 13 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2122
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 14 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2123
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 15 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2124
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 16 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2125
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 17 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2126
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 18 FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2127
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2038
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2039
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2040
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2041
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE ACTION FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2128
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE ADVENTURE FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2129
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE ANIMATION FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2130
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE BIOGRAPHY FHD
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2131
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE COMEDY
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2132
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE DRAMA
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2133
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE FANTASY
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2134
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE HELLENIC
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2135
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE HISTORY
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2136
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE HORROR
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2137
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE KIDS
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2138
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE MYTHOLOGY
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2139
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE PASSION
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2140
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE SCI-FI
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2141
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE STARZ
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2142
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE THRILLER
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2143
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE WESTERN
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2144
-#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA THRONE CHANNEL
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2145
-
-
-========== VOO SPORTS ==========
-
-
-#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3163
-#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3164
-#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3165
-#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT WORLD 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3166
-#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT WORLD 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3167
-
-
-
-========== PLAY SPORTS ==========
-
-
-#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3141
-#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3142
-#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3173
-#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3143
-#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3144
-
-
-========== BEIN SPORTS ==========
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3  
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="ttps://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTINF:-1 group-title="BEIN SPORTS",TR: BEIN SPORTS 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129687
 #EXTINF:-1 group-title="BEIN SPORTS",TR: BEIN SPORTS 2
@@ -645,11 +502,120 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34610
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34632
 #EXTINF:-1 group-title="BEIN SPORTS",MY: beinsport 3
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34677
-
-
-========== NZ SKY SPORTS ==========
-
-
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORTS PRIME
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1983
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1984
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1985
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1986
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1987
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128954
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA SPORT 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128953
+#EXTINF:-1 group-title="NOVA SPORTS",BH: Nova Sport
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115062
+#EXTINF:-1 group-title="NOVA SPORTS",SRB: Nova Sport
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115023
+#EXTINF:-1 group-title="NOVA SPORTS",BE: NOVA SPORT
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3139
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2243
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2244
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2210
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2211
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA ACTION
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2212
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA CINEMA
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2213
+#EXTINF:-1 group-title="NOVA SPORTS",CZ: NOVA GOLD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2214
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2042
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 2 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2043
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2044
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2045
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 5 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2046
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 6 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2118
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2047
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 8 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2119
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2048
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 10 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2049
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 11 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2120
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 12 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2121
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 13 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2122
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 14 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2123
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 15 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2124
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 16 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2125
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 17 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2126
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE 18 FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2127
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2038
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2039
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2040
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA CINEMA 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2041
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE ACTION FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2128
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE ADVENTURE FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2129
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE ANIMATION FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2130
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE BIOGRAPHY FHD
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2131
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE COMEDY
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2132
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE DRAMA
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2133
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE FANTASY
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2134
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE HELLENIC
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2135
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE HISTORY
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2136
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE HORROR
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2137
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE KIDS
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2138
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE MYTHOLOGY
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2139
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE PASSION
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2140
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE SCI-FI
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2141
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE STARZ
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2142
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE THRILLER
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2143
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA PREMIERE WESTERN
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2144
+#EXTINF:-1 group-title="NOVA SPORTS",GR: NOVA THRONE CHANNEL
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2145
 #EXTINF:-1 group-title="NZ SKY SPORTS",UK: VIP SKY SPORTS PREMIER LEAGUE
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1672
 #EXTINF:-1 group-title="NZ SKY SPORTS",GLOBAL: VIP SKY SPORTS PREMIER LEAGUE
@@ -666,11 +632,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56476
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56477
 #EXTINF:-1 group-title="NZ SKY SPORTS",NZ: VIP SKY SPORT 9
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56479
-
-
-========== SKY SPORTS ==========
-
-
 #EXTINF:-1 group-title="SKY SPORTS",DE: Sky Sports Premier League
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1385
 #EXTINF:-1 group-title="SKY SPORTS",IT: SKY SPORT F1
@@ -855,11 +816,156 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97208
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1877
 #EXTINF:-1 group-title="SKY SPORTS",UK: VIP SKY 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1878
-
-
-========== TV SPORTS ==========
-
-
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ PREMIER LEAGUE
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/441
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ SPORT 360
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/370
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ SPORT
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/371
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ MOTOGP
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/372
+#EXTINF:-1 group-title="CANAL+ SPORT",AF: VIP CANAL+ SPORT
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4646
+#EXTINF:-1 group-title="CANAL+ SPORT",AF: VIP CANAL+ SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4482
+#EXTINF:-1 group-title="CANAL+ SPORT",AF: VIP CANAL+ SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4483
+#EXTINF:-1 group-title="CANAL+ SPORT",AF: VIP CANAL+ SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4484
+#EXTINF:-1 group-title="CANAL+ SPORT",AF: VIP CANAL+ SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4485
+#EXTINF:-1 group-title="CANAL+ SPORT",AF: VIP CANAL+ SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4486
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ SPORT
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/876
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/877
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/878
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/879
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/889
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ EXTRA 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128981
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ EXTRA 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128982
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ EXTRA 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128983
+#EXTINF:-1 group-title="CANAL+ SPORT",PL: CANAL+ EXTRA 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128984
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128997
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128998
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128999
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129000
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129001
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129002
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129003
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129004
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129005
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129006
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 11
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129007
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 12
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129008
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 13
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129009
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 14
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129010
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 15
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129011
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 16
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129012
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 17
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129013
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 18
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129014
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL+ LIVE 19
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129015
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/446
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/447
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/448
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/449
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/450
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/451
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/452
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/453
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/454
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/455
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 11
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/456
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 12
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/457
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 13
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/458
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 14
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/459
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 15
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/460
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 16
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/461
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 17
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/462
+#EXTINF:-1 group-title="CANAL+ SPORT",FR: CANAL PLAY 18
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/463
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1988
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1989
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1990
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1991
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1992
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1993
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1994
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1995
+#EXTINF:-1 group-title="COSMOTE SPORTS",GR: COSMOTE SPORT 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1996
+#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3163
+#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3164
+#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3165
+#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT WORLD 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3166
+#EXTINF:-1 group-title="VOO SPORTS",BE: VOO SPORT WORLD 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3167
+#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3141
+#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3142
+#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3173
+#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3143
+#EXTINF:-1 group-title="PLAY SPORTS",BE: PLAY SPORTS 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3144
 #EXTINF:-1 group-title="SPORTS TV",BR: SPORTV 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4902
 #EXTINF:-1 group-title="SPORTS TV",BR: SPORTV 2
@@ -894,47 +1000,68 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25090
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25091
 #EXTINF:-1 group-title="SPORTS TV",SLO: Sport TV 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25092
-
-
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (HD) M+ LIGA DE CAMPEONES
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CYTAVISION SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport1.png" group-title="CYPRUS SPORTS",CYTAVISION SPORT 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727974
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CYTAVISION SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport2.png" group-title="CYPRUS SPORTS",CYTAVISION SPORT 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727973
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CYTAVISION SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport3.png" group-title="CYPRUS SPORTS",CYTAVISION SPORT 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727972
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CYTAVISION SPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport4.png" group-title="CYPRUS SPORTS",CYTAVISION SPORT 4 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727971
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CYTAVISION SPORT 5 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport5.png" group-title="CYPRUS SPORTS",CYTAVISION SPORT 5 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727970
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CYTAVISION SPORT 6 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport6.png" group-title="CYPRUS SPORTS",CYTAVISION SPORT 6 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727969
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CABELNET SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport1.png" group-title="CYPRUS SPORTS",CABELNET SPORT 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727976
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CABELNET SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/cytavisionsport2.png" group-title="CYPRUS SPORTS",CABELNET SPORT 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727975
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎CABELNET SPORT 3 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="CYPRUS SPORTS",CABELNET SPORT 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1458504
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎PRIMETEL SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/primetelsport1.png" group-title="CYPRUS SPORTS",PRIMETEL SPORT 1 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727967
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎PRIMETEL SPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/cabelnetsport2.png" group-title="CYPRUS SPORTS",PRIMETEL SPORT 2 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727966
+#EXTINF:-1 tvg-ID="" tvg-name="CY ▎PRIMETEL SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/primetelsport3.png" group-title="CYPRUS SPORTS",PRIMETEL SPORT 3 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/727965
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/264
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97195
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (FHD) M+ LIGA DE CAMPEONES
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/265
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97196
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (SD) M+ LIGA DE CAMPEONES
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99051
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (HD) M+ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129635
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/266
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 3
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 3
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/267
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: (HD) M+ LIGA DE CAMPEONES 3
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 3
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129636
 #EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 4
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/268
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 5
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 5
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/269
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 6
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 6
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/270
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 7
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 7
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/271
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 8
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 8
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/272
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 9
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 9
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/273
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 10
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 10
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/274
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 11
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 11
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/275
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 12
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 12
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/276
-#EXTINF:-1 group-title="DE CAMPEONES SPORTS",ES: M+ LIGA DE CAMPEONES 13
+#EXTINF:-1 group-title="DE CAMPEONES SPORTS",M+ LIGA DE CAMPEONES 13
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/277
-
 #EXTINF:-1 group-title="DEPORTES SPORTS",ES: M+ DEPORTES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/286
 #EXTINF:-1 group-title="DEPORTES SPORTS",ES: M+ DEPORTES HD
@@ -951,162 +1078,158 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/291
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/292
 #EXTINF:-1 group-title="DEPORTES SPORTS",ES: M+ DEPORTES 7
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/293
-
-
-#EXTINF:-1,PL: ✦●✦VIAPLAY✦●✦
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: ✦●✦VIAPLAY✦●✦
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/39710
-#EXTINF:-1,PL: Viaplay Xtra 1
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34147
-#EXTINF:-1,PL: Viaplay Xtra 2
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34148
-#EXTINF:-1,PL: Viaplay Xtra 3
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 3
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34149
-#EXTINF:-1,PL: Viaplay Xtra 4
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 4
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34150
-#EXTINF:-1,PL: Viaplay Xtra 5
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 5
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34151
-#EXTINF:-1,PL: Viaplay Xtra 6
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 6
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34152
-#EXTINF:-1,PL: Viaplay Xtra 7
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 7
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34153
-#EXTINF:-1,PL: Viaplay Xtra 8
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 8
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34154
-#EXTINF:-1,PL: Viaplay Xtra 9
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 9
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34155
-#EXTINF:-1,PL: Viaplay Xtra 10
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 10
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34156
-#EXTINF:-1,PL: Viaplay Xtra 11
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 11
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34157
-#EXTINF:-1,PL: Viaplay Xtra 12
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 12
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34158
-#EXTINF:-1,PL: Viaplay Xtra 13
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 13
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34159
-#EXTINF:-1,PL: Viaplay Xtra 14
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 14
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34160
-#EXTINF:-1,PL: Viaplay Xtra 15
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 15
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34161
-#EXTINF:-1,PL: Viaplay Xtra 16
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 16
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34162
-#EXTINF:-1,PL: Viaplay Xtra 17
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 17
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34163
-#EXTINF:-1,PL: Viaplay Xtra 18
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 18
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34164
-#EXTINF:-1,PL: Viaplay Xtra 19
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 19
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34165
-#EXTINF:-1,PL: Viaplay Xtra 20
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 20
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34166
-#EXTINF:-1,PL: Viaplay Xtra 21
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 21
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34167
-#EXTINF:-1,PL: Viaplay Xtra 22
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 22
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34168
-#EXTINF:-1,PL: Viaplay Xtra 23
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 23
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34169
-#EXTINF:-1,PL: Viaplay Xtra 24
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 24
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34170
-#EXTINF:-1,PL: Viaplay Xtra 25
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 25
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34171
-#EXTINF:-1,PL: Viaplay Xtra 26
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 26
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34172
-#EXTINF:-1,PL: Viaplay Xtra 27
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 27
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34173
-#EXTINF:-1,PL: Viaplay Xtra 28
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 28
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34174
-#EXTINF:-1,PL: Viaplay Xtra 29
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 29
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34175
-#EXTINF:-1,PL: Viaplay Xtra 30
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 30
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34176
-#EXTINF:-1,PL: Viaplay Xtra 31
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 31
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34177
-#EXTINF:-1,PL: Viaplay Xtra 32
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 32
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34178
-#EXTINF:-1,PL: Viaplay Xtra 33
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 33
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34179
-#EXTINF:-1,PL: Viaplay Xtra 34
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 34
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34180
-#EXTINF:-1,PL: Viaplay Xtra 35
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 35
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34181
-#EXTINF:-1,PL: Viaplay Xtra 36
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 36
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34182
-#EXTINF:-1,PL: Viaplay Xtra 37
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 37
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34183
-#EXTINF:-1,PL: Viaplay Xtra 38
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 38
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34184
-#EXTINF:-1,PL: Viaplay Xtra 39
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 39
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34185
-#EXTINF:-1,PL: Viaplay Xtra 40
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 40
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34186
-#EXTINF:-1,PL: Viaplay Xtra 41
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 41
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34187
-#EXTINF:-1,PL: Viaplay Xtra 42
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 42
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34188
-#EXTINF:-1,PL: Viaplay Xtra 43
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 43
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34189
-#EXTINF:-1,PL: Viaplay Xtra 44
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 44
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34190
-#EXTINF:-1,PL: Viaplay Xtra 45
+#EXTINF:-1 group-title="VIAPLAY SPORTS",PL: Viaplay Xtra 45
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34191
-#EXTINF:-1,NL: Viaplay | Event 1
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34194
-#EXTINF:-1,NL: Viaplay | Event 2
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34195
-#EXTINF:-1,NL: Viaplay | Event 3
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 3
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34196
-#EXTINF:-1,NL: Viaplay | Event 4
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 4
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34197
-#EXTINF:-1,NL: Viaplay | Event 5
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 5
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34198
-#EXTINF:-1,NL: Viaplay | Event 6
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 6
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34199
-#EXTINF:-1,NL: Viaplay | Event 7
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 7
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34200
-#EXTINF:-1,NL: Viaplay | Event 8
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 8
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34201
-#EXTINF:-1,NL: Viaplay | Event 9
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 9
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34202
-#EXTINF:-1,NL: Viaplay | Event 10
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 10
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34203
-#EXTINF:-1,NL: Viaplay | Event 11
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 11
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34204
-#EXTINF:-1,NL: Viaplay | Event 12
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 12
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34205
-#EXTINF:-1,NL: Viaplay | Event 13
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 13
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34206
-#EXTINF:-1,NL: Viaplay | Event 14
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 14
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34207
-#EXTINF:-1,NL: Viaplay | Event 15
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 15
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34208
-#EXTINF:-1,NL: Viaplay | Event 16
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 16
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34209
-#EXTINF:-1,NL: Viaplay | Event 17
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 17
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34210
-#EXTINF:-1,NL: Viaplay | Event 18
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 18
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34211
-#EXTINF:-1,NL: Viaplay | Event 19
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 19
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34212
-#EXTINF:-1,NL: Viaplay | Event 20
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 20
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34213
-#EXTINF:-1,NL: Viaplay | Event 21
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 21
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34214
-#EXTINF:-1,NL: Viaplay | Event 22
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 22
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34215
-#EXTINF:-1,NL: Viaplay | Event 23
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 23
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34216
-#EXTINF:-1,NL: Viaplay | Event 24
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 24
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34217
-#EXTINF:-1,NL: Viaplay | Event 25
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 25
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34218
-#EXTINF:-1,NL: Viaplay | Event 26
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 26
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34219
-#EXTINF:-1,NL: Viaplay | Event 27
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 27
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34220
-#EXTINF:-1,NL: Viaplay | Event 28
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 28
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34221
-#EXTINF:-1,NL: Viaplay | Event 29
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 29
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34222
-#EXTINF:-1,NL: Viaplay | Event 30
+#EXTINF:-1 group-title="VIAPLAY SPORTS",NL: Viaplay | Event 30
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34223
-
-
 #EXTINF:-1 group-title="VIASAT SPORTS",RU| Viasat Sport HD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25599
 #EXTINF:-1 group-title="VIASAT SPORTS",SWE: VIASAT SPORT
@@ -1149,8 +1272,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25592
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25593
 #EXTINF:-1 group-title="VIASAT SPORTS",RU| Viasat Nature HD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25594
-
-
 #EXTINF:-1 group-title="RMC SPORTS",BE: RMC SPORT 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3148
 #EXTINF:-1 group-title="RMC SPORTS",FR: RMC SPORT 1
@@ -1179,33 +1300,512 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/398
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/399
 #EXTINF:-1 group-title="RMC SPORTS",FR: RMC SPORT 13 LIVE
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/400
-
-
 #EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34309
 #EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT EXTRA
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/886
+#EXTINF:-1 group-title="POLSAT SPORTS",POLSAT SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/870
+#EXTINF:-1 group-title="POLSAT SPORTS",POLSAT SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/871
+#EXTINF:-1 group-title="POLSAT SPORTS",POLSAT SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/872
+#EXTINF:-1 group-title="POLSAT SPORTS",POLSAT SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/873
+#EXTINF:-1 group-title="POLSAT SPORTS",POLSAT SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/874
+#EXTINF:-1 group-title="POLSAT SPORTS",POLSAT SPORT 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/875
 #EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT NEWS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/887
 #EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT FIGHT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/888
-#EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT PREMIUM 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/870
-#EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT PREMIUM 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/871
-#EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT PREMIUM 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/872
-#EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT PREMIUM 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/873
-#EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT PREMIUM 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/874
-#EXTINF:-1 group-title="POLSAT SPORTS",PL: POLSAT SPORT PREMIUM 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/875
-
-#EXTINF:-1,ES: EUROSPORT 1
+#EXTINF:-1 group-title="EUROSPORTS",IT: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/39675
+#EXTINF:-1 group-title="EUROSPORTS",IT: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/39676
+#EXTINF:-1 group-title="EUROSPORTS",ES: EUROSPORT 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/281
-#EXTINF:-1,ES: EUROSPORT 2
+#EXTINF:-1 group-title="EUROSPORTS",ES: EUROSPORT 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/282
+#EXTINF:-1 group-title="EUROSPORTS",DE: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1404
+#EXTINF:-1 group-title="EUROSPORTS",DE: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1405
+#EXTINF:-1 group-title="EUROSPORTS",DE: Eurosport 2 Xtra
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1657
+#EXTINF:-1 group-title="EUROSPORTS",NO: EUROSPORT NORGE
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3622
+#EXTINF:-1 group-title="EUROSPORTS",NO: EUROSPORT PLUSS 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3623
+#EXTINF:-1 group-title="EUROSPORTS",NO: EUROSPORT PLUSS 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3624
+#EXTINF:-1 group-title="EUROSPORTS",NO: EUROSPORT PLUSS 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3625
+#EXTINF:-1 group-title="EUROSPORTS",NO: EUROSPORT PLUSS 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3626
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25318
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25319
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25320
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25321
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25327
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25328
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25329
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25330
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25331
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25332
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 11
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25333
+#EXTINF:-1 group-title="EUROSPORTS",NO: Eurosport Pluss 12
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25334
+#EXTINF:-1 group-title="EUROSPORTS",PT: Eurosport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99481
+#EXTINF:-1 group-title="EUROSPORTS",PT: Eurosport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99482
+#EXTINF:-1 group-title="EUROSPORTS",AF: VIP EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4516
+#EXTINF:-1 group-title="EUROSPORTS",AF: VIP EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4517
+#EXTINF:-1 group-title="EUROSPORTS",HU: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3783
+#EXTINF:-1 group-title="EUROSPORTS",HU: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3784
+#EXTINF:-1 group-title="EUROSPORTS",DK: Eurosport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87097
+#EXTINF:-1 group-title="EUROSPORTS",DK : Eurosport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87098
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/383
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/384
+#EXTINF:-1 group-title="EUROSPORTS",PL: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/884
+#EXTINF:-1 group-title="EUROSPORTS",PL: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/885
+#EXTINF:-1 group-title="EUROSPORTS",NL: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1269
+#EXTINF:-1 group-title="EUROSPORTS",NL: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1270
+#EXTINF:-1 group-title="EUROSPORTS",AL: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129073
+#EXTINF:-1 group-title="EUROSPORTS",AL: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129075
+#EXTINF:-1 group-title="EUROSPORTS",TR: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129789
+#EXTINF:-1 group-title="EUROSPORTS",TR: EUROSPORT 2 [Live During Events Only]
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129790
+#EXTINF:-1 group-title="EUROSPORTS",SWE: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2263
+#EXTINF:-1 group-title="EUROSPORTS",SWE: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2264
+#EXTINF:-1 group-title="EUROSPORTS",RO: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3226
+#EXTINF:-1 group-title="EUROSPORTS",RO: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3297
+#EXTINF:-1 group-title="EUROSPORTS",GR: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1998
+#EXTINF:-1 group-title="EUROSPORTS",CZ: Eurosport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2260
+#EXTINF:-1 group-title="EUROSPORTS",CZ: Eurosport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2261
+#EXTINF:-1 group-title="EUROSPORTS",EX-YU: eurosport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87094
+#EXTINF:-1 group-title="EUROSPORTS",EX-YU: eurosport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87095
+#EXTINF:-1 group-title="EUROSPORTS",BG: EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56485
+#EXTINF:-1 group-title="EUROSPORTS",BG: EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56486
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/385
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/386
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/387
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87236
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87237
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87238
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87239
+#EXTINF:-1 group-title="EUROSPORTS",FR: EUROSPORT 360 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87240
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6763
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6764
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6765
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6766
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6767
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6768
+#EXTINF:-1 group-title="SSC SPORTS",AR: SSC SPORT 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6769
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2991
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2992
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2993
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2994
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2995
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2996
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114939
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114940
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114941
+#EXTINF:-1 group-title="ARENA SPORTS",CRO: ARENA SPORT 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114942
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 1 HR
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3409
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 1 SRB
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3410
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 2 BIH
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3411
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 2 SRB
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3412
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 3 SRB
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3413
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 4 BIH
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3414
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 4 SRB
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3415
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 5 HR
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3416
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: ARENA SPORT 5 SRB
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3417
+#EXTINF:-1 group-title="ARENA SPORTS",CZ: Arena Sport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2258
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: Arena Sport Premium 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97139
+#EXTINF:-1 group-title="ARENA SPORTS",EX_YU: Arena Sport Premium 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97140
+#EXTINF:-1 group-title="ARENA SPORTS",EX-YU: Arena Sport Premium 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97141
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 1x2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115017
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115037
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115038
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115039
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115040
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115041
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115018
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115019
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115020
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115021
+#EXTINF:-1 group-title="ARENA SPORTS",SRB: Arena Sport 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115022
+#EXTINF:-1 group-title="ARENA SPORTS",BH: Arena Sport
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115063
+#EXTINF:-1 group-title="ARENA SPORTS",BH: Arena Sport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115068
+#EXTINF:-1 group-title="ARENA SPORTS",BH: Arena Sport 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115064
+#EXTINF:-1 group-title="ARENA SPORTS",BH: Arena Sport Premium 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115065
+#EXTINF:-1 group-title="ARENA SPORTS",BH: Arena Sport Premium 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115066
+#EXTINF:-1 group-title="ARENA SPORTS",BH: Arena Sport Premium 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115067
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99324
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99323
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99322
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99321
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99320
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99319
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99318
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99317
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99316
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99315
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 11
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99314
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 12
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99313
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 13
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99312
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 14
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99311
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 15
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99310
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 16
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99309
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 17
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99308
+#EXTINF:-1 group-title="mtTeamTv Sport",DE: mtTeamTv Sport 18
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99307
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99339
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99340
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99341
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99342
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99343
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99344
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99345
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99346
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99347
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99348
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 11
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99349
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 12
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99350
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 13
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99351
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 14
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99352
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 15
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99353
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 16
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99329
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 17
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99330
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 18
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99331
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 19
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99332
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 20
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99333
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 21
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99334
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 22
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99335
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 23
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99336
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 24
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99337
+#EXTINF:-1 group-title="Deutschland Sport",DE: DYN Sport 25
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99338
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99413
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99412
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99411
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99410
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99409
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 6
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99408
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99407
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99406
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 9
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99405
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 10
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99404
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 11
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99403
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 12
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99402
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 13
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99401
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 14
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99400
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 15
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99399
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 16
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99398
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 17
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99397
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 18
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99396
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 19
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99395
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 20
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99394
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 21
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99393
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 22
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99392
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 23
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99391
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 24
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99390
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 25
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99389
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 26
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99388
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 27
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99387
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 28
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99386
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 29
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99385
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 30
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99384
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 31
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99383
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 32
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99382
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 33
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99381
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 34
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99380
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 35
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99379
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 36
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99378
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 37
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99377
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 38
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99376
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 39
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99375
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 40
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99374
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 41
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99373
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 42
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99372
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 43
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99371
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 44
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99370
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 45
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99369
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 46
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99368
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 47
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99367
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 48
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99366
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 49
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99365
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 50
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99364
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 51
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99363
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 52
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99362
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 53
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99361
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 54
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99360
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 55
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99359
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 56
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99358
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 57
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99357
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 58
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99356
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 59
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99355
+#EXTINF:-1 group-title="Deutschland Sport",DE: SPORT Deutschland 60
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99354
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129791
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 2 [Live During Events Only]
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129792
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 3 [Live During Events Only]
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129793
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129794
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 5
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129795
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 6 [Live During Events Only]
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129796
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129797
+#EXTINF:-1 group-title="EXXEN SPORTS",TR: EXXEN SPORTS 8
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129798
+#EXTINF:-1 group-title="VIP SKY SPORTS",USA: VIP SPORTSNET ONTARIO (PREMIER LEAGUE)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5606
+#EXTINF:-1 group-title="VIP SKY SPORTS",AF: VIP SUPERSPORT PREMIER LEAGUE
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4434
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP EUROSPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1683
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP EUROSPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1684
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP EIR SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1685
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP EIR SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1686
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1687
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1688
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1689
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT EXTRA 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1690
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT EXTRA 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1691
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT EXTRA 3
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1692
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT EXTRA 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1693
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP PREMIERE SPORTS 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1694
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP PREMIER SPORTS 2
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1695
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SKY SPORTS NEWS
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1696
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1698
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1699
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1701
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1702
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1703
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1705
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP SUPER SPORT PSL (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1708
+#EXTINF:-1 group-title="VIP SKY SPORTS",UK: VIP BT SPORT 4
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1710
 #EXTINF:-1,ES: (LÍNEA 1) ONETORO
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/631
 #EXTINF:-1,ES: TOROLE TV
@@ -1232,7 +1832,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/633
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/285
 #EXTINF:-1,ES: M+ GOLF 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/58727
-
 #EXTINF:-1,ES: BABY TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/636
 #EXTINF:-1,ES: BOING
@@ -1437,36 +2036,8 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129979
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129980
 #EXTINF:-1,FR: CANAL+ FOOT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/369
-#EXTINF:-1,FR: CANAL+ SPORT 360
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/370
-#EXTINF:-1,FR: CANAL+ SPORT
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/371
-#EXTINF:-1,FR: CANAL+ MOTOGP
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/372
 #EXTINF:-1,FR: CANAL+ TOP 14
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25880
-
-#EXTINF:-1,FR: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/383
-#EXTINF:-1,FR: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/384
-#EXTINF:-1,FR: EUROSPORT 360 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/385
-#EXTINF:-1,FR: EUROSPORT 360 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/386
-#EXTINF:-1,FR: EUROSPORT 360 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/387
-#EXTINF:-1,FR: EUROSPORT 360 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87236
-#EXTINF:-1,FR: EUROSPORT 360 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87237
-#EXTINF:-1,FR: EUROSPORT 360 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87238
-#EXTINF:-1,FR: EUROSPORT 360 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87239
-#EXTINF:-1,FR: EUROSPORT 360 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87240
-
 #EXTINF:-1,FR: AMAZON PRIME 1 (MATCH TIME)
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/402
 #EXTINF:-1,FR: AMAZON PRIME 2 (MATCH TIME)
@@ -1557,8 +2128,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/437
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/439
 #EXTINF:-1,FR: CANAL+ SERIES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/440
-#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/441
 #EXTINF:-1,FR: CINE CLASSIC
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/464
 #EXTINF:-1,FR: CINE CLUB
@@ -1589,42 +2158,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/481
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/482
 #EXTINF:-1,FR: TCM CINEMA
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/483
-#EXTINF:-1,FR: CANAL PLAY 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/446
-#EXTINF:-1,FR: CANAL PLAY 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/447
-#EXTINF:-1,FR: CANAL PLAY 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/448
-#EXTINF:-1,FR: CANAL PLAY 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/449
-#EXTINF:-1,FR: CANAL PLAY 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/450
-#EXTINF:-1,FR: CANAL PLAY 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/451
-#EXTINF:-1,FR: CANAL PLAY 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/452
-#EXTINF:-1,FR: CANAL PLAY 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/453
-#EXTINF:-1,FR: CANAL PLAY 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/454
-#EXTINF:-1,FR: CANAL PLAY 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/455
-#EXTINF:-1,FR: CANAL PLAY 11
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/456
-#EXTINF:-1,FR: CANAL PLAY 12
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/457
-#EXTINF:-1,FR: CANAL PLAY 13
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/458
-#EXTINF:-1,FR: CANAL PLAY 14
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/459
-#EXTINF:-1,FR: CANAL PLAY 15
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/460
-#EXTINF:-1,FR: CANAL PLAY 16
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/461
-#EXTINF:-1,FR: CANAL PLAY 17
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/462
-#EXTINF:-1,FR: CANAL PLAY 18
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/463
 #EXTINF:-1,FR: A LA CARTE 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/484
 #EXTINF:-1,FR: A LA CARTE 2
@@ -1849,47 +2382,8 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/626
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/627
 #EXTINF:-1,FR: GOLF Channel
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/121252
-
 #EXTINF:-1,FR: VOYAGE HD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128985
-#EXTINF:-1,FR: CANAL+ LIVE 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128997
-#EXTINF:-1,FR: CANAL+ LIVE 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128998
-#EXTINF:-1,FR: CANAL+ LIVE 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128999
-#EXTINF:-1,FR: CANAL+ LIVE 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129000
-#EXTINF:-1,FR: CANAL+ LIVE 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129001
-#EXTINF:-1,FR: CANAL+ LIVE 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129002
-#EXTINF:-1,FR: CANAL+ LIVE 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129003
-#EXTINF:-1,FR: CANAL+ LIVE 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129004
-#EXTINF:-1,FR: CANAL+ LIVE 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129005
-#EXTINF:-1,FR: CANAL+ LIVE 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129006
-#EXTINF:-1,FR: CANAL+ LIVE 11
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129007
-#EXTINF:-1,FR: CANAL+ LIVE 12
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129008
-#EXTINF:-1,FR: CANAL+ LIVE 13
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129009
-#EXTINF:-1,FR: CANAL+ LIVE 14
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129010
-#EXTINF:-1,FR: CANAL+ LIVE 15
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129011
-#EXTINF:-1,FR: CANAL+ LIVE 16
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129012
-#EXTINF:-1,FR: CANAL+ LIVE 17
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129013
-#EXTINF:-1,FR: CANAL+ LIVE 18
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129014
-#EXTINF:-1,FR: CANAL+ LIVE 19
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129015
 #EXTINF:-1,AR: BEIN SPORTS NBA
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/851
 #EXTINF:-1,AR: BEIN SPORTS NEWS
@@ -1946,8 +2440,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/104
 #EXTINF:-1,PT: ZAP VIVA
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/105
-
-
 #EXTINF:-1,PT: Sporting TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99490
 #EXTINF:-1,PT: A Bola TV
@@ -2250,22 +2742,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/978
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1000
 #EXTINF:-1,PL: ✦●✦SPORTY✦●✦
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/39704
-#EXTINF:-1,PL: CANAL+ SPORT
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/876
-#EXTINF:-1,PL: CANAL+ SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/877
-#EXTINF:-1,PL: CANAL+ SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/878
-#EXTINF:-1,PL: CANAL+ SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/879
-#EXTINF:-1,PL: CANAL+ SPORT 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/889
-
-
-#EXTINF:-1,PL: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/884
-#EXTINF:-1,PL: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/885
 #EXTINF:-1,PL: FIGHT BOX
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/942
 #EXTINF:-1,PL: GOLF CHANNEL
@@ -2480,7 +2956,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1010
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1045
 #EXTINF:-1,PL: VH1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1038
-
 #EXTINF:-1,PL: Polsat Doku
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99472
 #EXTINF:-1,PL: Novelas+
@@ -2489,14 +2964,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115036
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/125460
 #EXTINF:-1,PL: Extreme Sports
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128952
-#EXTINF:-1,PL: CANAL+ EXTRA 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128981
-#EXTINF:-1,PL: CANAL+ EXTRA 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128982
-#EXTINF:-1,PL: CANAL+ EXTRA 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128983
-#EXTINF:-1,PL: CANAL+ EXTRA 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/128984
 #EXTINF:-1,IT: RAI 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1145
 #EXTINF:-1,IT: RAI 2
@@ -2573,14 +3040,8 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1103
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1225
 #EXTINF:-1,IT: RAI SPORT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1062
-#EXTINF:-1,IT: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/39675
-#EXTINF:-1,IT: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/39676
-
 #EXTINF:-1,IT: SUPER TENNIS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1196
-
 #EXTINF:-1,IT: SI PLUS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1047
 #EXTINF:-1,IT: SKY CINEMA ACTION
@@ -2806,10 +3267,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1341
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1342
 #EXTINF:-1,NL: NPO ZAPPELIN EXTRA/HUMOR
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1343
-#EXTINF:-1,NL: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1269
-#EXTINF:-1,NL: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1270
 #EXTINF:-1,NL: ZIGGO SPORT 4K
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1271
 #EXTINF:-1,NL: ZIGGO SPORT DOCU
@@ -3038,16 +3495,10 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1388
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1389
 #EXTINF:-1,IT: SKY SPORT NBA
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1052
-
 #EXTINF:-1,IT: SKY SPORT TENNIS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1191
-
 #EXTINF:-1,IT: SKY SPORT GOLF
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1055
-#EXTINF:-1,DE: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1404
-#EXTINF:-1,DE: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1405
 #EXTINF:-1,DE: Sky Sport Tennis
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1386
 #EXTINF:-1,DE: SPORT DIGITAL
@@ -3066,7 +3517,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1429
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1430
 #EXTINF:-1,DE: TELEKOM DEL SPORT 6
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1431
-
 #EXTINF:-1,DE: AUTO MOTOR SPORT CHANNEL
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1480
 #EXTINF:-1,DE: FC BAYERN TV
@@ -3117,9 +3567,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1622
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1641
 #EXTINF:-1,DE: More Than Sports TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1652
-#EXTINF:-1,DE: Eurosport 2 Xtra
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1657
-
 #EXTINF:-1,DE: EURONEWS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1524
 #EXTINF:-1,DE: N-TV
@@ -3456,43 +3903,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1654
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1655
 #EXTINF:-1,DE: 1.2.3 TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1661
-
-#EXTINF:-1,DE: mtTeamTv Sport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99324
-#EXTINF:-1,DE: mtTeamTv Sport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99323
-#EXTINF:-1,DE: mtTeamTv Sport 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99322
-#EXTINF:-1,DE: mtTeamTv Sport 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99321
-#EXTINF:-1,DE: mtTeamTv Sport 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99320
-#EXTINF:-1,DE: mtTeamTv Sport 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99319
-#EXTINF:-1,DE: mtTeamTv Sport 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99318
-#EXTINF:-1,DE: mtTeamTv Sport 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99317
-#EXTINF:-1,DE: mtTeamTv Sport 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99316
-#EXTINF:-1,DE: mtTeamTv Sport 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99315
-#EXTINF:-1,DE: mtTeamTv Sport 11
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99314
-#EXTINF:-1,DE: mtTeamTv Sport 12
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99313
-#EXTINF:-1,DE: mtTeamTv Sport 13
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99312
-#EXTINF:-1,DE: mtTeamTv Sport 14
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99311
-#EXTINF:-1,DE: mtTeamTv Sport 15
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99310
-#EXTINF:-1,DE: mtTeamTv Sport 16
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99309
-#EXTINF:-1,DE: mtTeamTv Sport 17
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99308
-#EXTINF:-1,DE: mtTeamTv Sport 18
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99307
 #EXTINF:-1,DE: Magenta Sport
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99325
 #EXTINF:-1,DE: Magenta Sport
@@ -3501,176 +3911,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99326
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99327
 #EXTINF:-1,DE: MagentaTV Info
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99328
-#EXTINF:-1,DE: DYN Sport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99339
-#EXTINF:-1,DE: DYN Sport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99340
-#EXTINF:-1,DE: DYN Sport 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99341
-#EXTINF:-1,DE: DYN Sport 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99342
-#EXTINF:-1,DE: DYN Sport 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99343
-#EXTINF:-1,DE: DYN Sport 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99344
-#EXTINF:-1,DE: DYN Sport 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99345
-#EXTINF:-1,DE: DYN Sport 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99346
-#EXTINF:-1,DE: DYN Sport 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99347
-#EXTINF:-1,DE: DYN Sport 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99348
-#EXTINF:-1,DE: DYN Sport 11
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99349
-#EXTINF:-1,DE: DYN Sport 12
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99350
-#EXTINF:-1,DE: DYN Sport 13
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99351
-#EXTINF:-1,DE: DYN Sport 14
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99352
-#EXTINF:-1,DE: DYN Sport 15
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99353
-#EXTINF:-1,DE: DYN Sport 16
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99329
-#EXTINF:-1,DE: DYN Sport 17
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99330
-#EXTINF:-1,DE: DYN Sport 18
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99331
-#EXTINF:-1,DE: DYN Sport 19
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99332
-#EXTINF:-1,DE: DYN Sport 20
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99333
-#EXTINF:-1,DE: DYN Sport 21
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99334
-#EXTINF:-1,DE: DYN Sport 22
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99335
-#EXTINF:-1,DE: DYN Sport 23
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99336
-#EXTINF:-1,DE: DYN Sport 24
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99337
-#EXTINF:-1,DE: DYN Sport 25
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99338
-#EXTINF:-1,DE: SPORT Deutschland 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99413
-#EXTINF:-1,DE: SPORT Deutschland 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99412
-#EXTINF:-1,DE: SPORT Deutschland 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99411
-#EXTINF:-1,DE: SPORT Deutschland 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99410
-#EXTINF:-1,DE: SPORT Deutschland 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99409
-#EXTINF:-1,DE: SPORT Deutschland 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99408
-#EXTINF:-1,DE: SPORT Deutschland 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99407
-#EXTINF:-1,DE: SPORT Deutschland 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99406
-#EXTINF:-1,DE: SPORT Deutschland 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99405
-#EXTINF:-1,DE: SPORT Deutschland 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99404
-#EXTINF:-1,DE: SPORT Deutschland 11
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99403
-#EXTINF:-1,DE: SPORT Deutschland 12
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99402
-#EXTINF:-1,DE: SPORT Deutschland 13
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99401
-#EXTINF:-1,DE: SPORT Deutschland 14
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99400
-#EXTINF:-1,DE: SPORT Deutschland 15
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99399
-#EXTINF:-1,DE: SPORT Deutschland 16
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99398
-#EXTINF:-1,DE: SPORT Deutschland 17
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99397
-#EXTINF:-1,DE: SPORT Deutschland 18
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99396
-#EXTINF:-1,DE: SPORT Deutschland 19
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99395
-#EXTINF:-1,DE: SPORT Deutschland 20
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99394
-#EXTINF:-1,DE: SPORT Deutschland 21
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99393
-#EXTINF:-1,DE: SPORT Deutschland 22
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99392
-#EXTINF:-1,DE: SPORT Deutschland 23
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99391
-#EXTINF:-1,DE: SPORT Deutschland 24
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99390
-#EXTINF:-1,DE: SPORT Deutschland 25
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99389
-#EXTINF:-1,DE: SPORT Deutschland 26
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99388
-#EXTINF:-1,DE: SPORT Deutschland 27
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99387
-#EXTINF:-1,DE: SPORT Deutschland 28
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99386
-#EXTINF:-1,DE: SPORT Deutschland 29
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99385
-#EXTINF:-1,DE: SPORT Deutschland 30
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99384
-#EXTINF:-1,DE: SPORT Deutschland 31
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99383
-#EXTINF:-1,DE: SPORT Deutschland 32
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99382
-#EXTINF:-1,DE: SPORT Deutschland 33
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99381
-#EXTINF:-1,DE: SPORT Deutschland 34
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99380
-#EXTINF:-1,DE: SPORT Deutschland 35
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99379
-#EXTINF:-1,DE: SPORT Deutschland 36
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99378
-#EXTINF:-1,DE: SPORT Deutschland 37
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99377
-#EXTINF:-1,DE: SPORT Deutschland 38
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99376
-#EXTINF:-1,DE: SPORT Deutschland 39
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99375
-#EXTINF:-1,DE: SPORT Deutschland 40
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99374
-#EXTINF:-1,DE: SPORT Deutschland 41
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99373
-#EXTINF:-1,DE: SPORT Deutschland 42
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99372
-#EXTINF:-1,DE: SPORT Deutschland 43
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99371
-#EXTINF:-1,DE: SPORT Deutschland 44
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99370
-#EXTINF:-1,DE: SPORT Deutschland 45
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99369
-#EXTINF:-1,DE: SPORT Deutschland 46
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99368
-#EXTINF:-1,DE: SPORT Deutschland 47
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99367
-#EXTINF:-1,DE: SPORT Deutschland 48
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99366
-#EXTINF:-1,DE: SPORT Deutschland 49
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99365
-#EXTINF:-1,DE: SPORT Deutschland 50
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99364
-#EXTINF:-1,DE: SPORT Deutschland 51
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99363
-#EXTINF:-1,DE: SPORT Deutschland 52
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99362
-#EXTINF:-1,DE: SPORT Deutschland 53
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99361
-#EXTINF:-1,DE: SPORT Deutschland 54
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99360
-#EXTINF:-1,DE: SPORT Deutschland 55
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99359
-#EXTINF:-1,DE: SPORT Deutschland 56
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99358
-#EXTINF:-1,DE: SPORT Deutschland 57
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99357
-#EXTINF:-1,DE: SPORT Deutschland 58
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99356
-#EXTINF:-1,DE: SPORT Deutschland 59
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99355
-#EXTINF:-1,DE: SPORT Deutschland 60
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99354
 #EXTINF:-1,DE: ClipMyHorse.TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99416
 #EXTINF:-1,DE: EDGEsport
@@ -3783,61 +4023,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99469
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99470
 #EXTINF:-1,DE: Red Adventure HD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99471
-#EXTINF:-1,UK: VIP EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1683
-#EXTINF:-1,UK: VIP EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1684
-#EXTINF:-1,UK: VIP EIR SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1685
-#EXTINF:-1,UK: VIP EIR SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1686
-#EXTINF:-1,UK: VIP BT SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1687
-#EXTINF:-1,UK: VIP BT SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1688
-#EXTINF:-1,UK: VIP BT SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1689
-#EXTINF:-1,UK: VIP BT SPORT EXTRA 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1690
-#EXTINF:-1,UK: VIP BT SPORT EXTRA 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1691
-#EXTINF:-1,UK: VIP BT SPORT EXTRA 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1692
-#EXTINF:-1,UK: VIP BT SPORT EXTRA 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1693
-#EXTINF:-1,UK: VIP PREMIERE SPORTS 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1694
-#EXTINF:-1,UK: VIP PREMIER SPORTS 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1695
-#EXTINF:-1,UK: VIP SKY SPORTS NEWS
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1696
-#EXTINF:-1,UK: VIP SUPER SPORT GOLF
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1697
-#EXTINF:-1,UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1698
-#EXTINF:-1,UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1699
-#EXTINF:-1,UK: VIP SUPERSPORT RUGBY (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1700
-#EXTINF:-1,UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1701
-#EXTINF:-1,UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1702
-#EXTINF:-1,UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1703
-#EXTINF:-1,UK: VIP SUPER SPORTS ACTION (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1704
-#EXTINF:-1,UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1705
-#EXTINF:-1,UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1706
-#EXTINF:-1,UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1707
-#EXTINF:-1,UK: VIP SUPER SPORT PSL (MATCH TIME)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1708
-#EXTINF:-1,UK: VIP BT SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1710
-
 #EXTINF:-1,UK: VIP RACING
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1712
 #EXTINF:-1,UK: VIP FREE SPORTS
@@ -4373,10 +4558,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1980
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1981
 #EXTINF:-1,SWS: RSI 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1982
-
-
-#EXTINF:-1,GR: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1998
 #EXTINF:-1,GR: EPT SPORT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1999
 #EXTINF:-1,GR: 4E
@@ -4809,14 +4990,18 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2255
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2256
 #EXTINF:-1,CZ: Docubox
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2257
-#EXTINF:-1,CZ: Arena Sport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2258
+#EXTINF:-1,UK: VIP SUPER SPORT GOLF
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1697
+#EXTINF:-1,UK: VIP SUPERSPORT RUGBY (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1700
+#EXTINF:-1,UK: VIP SUPER SPORTS ACTION (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1704
+#EXTINF:-1,UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1706
+#EXTINF:-1,UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/1707
 #EXTINF:-1,CZ: BARRANDOV KRIMI
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2259
-#EXTINF:-1,CZ: Eurosport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2260
-#EXTINF:-1,CZ: Eurosport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2261
 #EXTINF:-1,CZ: FIGHTBOX
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2262
 #EXTINF:-1,CZ: CINEMAX
@@ -4859,11 +5044,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2326
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2297
 #EXTINF:-1,SWE: TV 12
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2327
-#EXTINF:-1,SWE: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2263
-#EXTINF:-1,SWE: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2264
-
 #EXTINF:-1,SWE: ANIMAL PLANET
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2271
 #EXTINF:-1,SWE: BBC BRIT
@@ -5172,26 +5352,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129786
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129787
 #EXTINF:-1,TR: EURO STAR
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129788
-#EXTINF:-1,TR: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129789
-#EXTINF:-1,TR: EUROSPORT 2 [Live During Events Only]
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129790
-#EXTINF:-1,TR: EXXEN SPORTS 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129791
-#EXTINF:-1,TR: EXXEN SPORTS 2 [Live During Events Only]
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129792
-#EXTINF:-1,TR: EXXEN SPORTS 3 [Live During Events Only]
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129793
-#EXTINF:-1,TR: EXXEN SPORTS 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129794
-#EXTINF:-1,TR: EXXEN SPORTS 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129795
-#EXTINF:-1,TR: EXXEN SPORTS 6 [Live During Events Only]
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129796
-#EXTINF:-1,TR: EXXEN SPORTS 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129797
-#EXTINF:-1,TR: EXXEN SPORTS 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129798
 #EXTINF:-1,TR: FB TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129799
 #EXTINF:-1,TR: FILMBOX+
@@ -5618,10 +5778,7 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129068
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129070
 #EXTINF:-1,AL: EURO FILM 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129071
-#EXTINF:-1,AL: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129073
-#EXTINF:-1,AL: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129075
+
 #EXTINF:-1,AL: EXPLORER HISTORI
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129077
 #EXTINF:-1,AL: EXPLORER NATYRA
@@ -5920,18 +6077,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/129326
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34146
 #EXTINF:-1,CRO: VIP MAX SPORT 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/37641
-#EXTINF:-1,CRO: ARENA SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2991
-#EXTINF:-1,CRO: ARENA SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2992
-#EXTINF:-1,CRO: ARENA SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2993
-#EXTINF:-1,CRO: ARENA SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2994
-#EXTINF:-1,CRO: ARENA SPORT 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2995
-#EXTINF:-1,CRO: ARENA SPORT 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2996
 #EXTINF:-1,CRO: SPORT KLUB 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2997
 #EXTINF:-1,CRO: SPORT KLUB 2
@@ -6128,14 +6273,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3092
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3093
 #EXTINF:-1,CRO: Z1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3094
-#EXTINF:-1,CRO: ARENA SPORT 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114939
-#EXTINF:-1,CRO: ARENA SPORT 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114940
-#EXTINF:-1,CRO: ARENA SPORT 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114941
-#EXTINF:-1,CRO: ARENA SPORT 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114942
 #EXTINF:-1,CRO: RTL Adria
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114943
 #EXTINF:-1,CRO: Banovina Tv
@@ -6415,8 +6552,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3223
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3224
 #EXTINF:-1,RO: ETNO
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3225
-#EXTINF:-1,RO: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3226
 #EXTINF:-1,RO: FAVORIT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3227
 #EXTINF:-1,RO: FILM CAFE
@@ -6557,8 +6692,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3294
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3295
 #EXTINF:-1,RO: ZU TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3296
-#EXTINF:-1,RO: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3297
 #EXTINF:-1,BG: MAX SPORT 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2987
 #EXTINF:-1,BG: MAX SPORT 2
@@ -6785,34 +6918,12 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3403
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3404
 #EXTINF:-1,BG: WORLD FIGHT CHANNEL
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3405
-#EXTINF:-1,BG: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56485
-#EXTINF:-1,BG: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/56486
 #EXTINF:-1,EX-YU: 24 KITCHEN
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3406
 #EXTINF:-1,EX-YU: AMC
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3407
 #EXTINF:-1,EX-YU: ANIMAL PLANET
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3408
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3409
-#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3410
-#EXTINF:-1,EX-YU: ARENA SPORT 2 BIH
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3411
-#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3412
-#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3413
-#EXTINF:-1,EX-YU: ARENA SPORT 4 BIH
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3414
-#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3415
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3416
-#EXTINF:-1,EX-YU: ARENA SPORT 5 SRB
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3417
 #EXTINF:-1,EX-YU: AXN
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3418
 #EXTINF:-1,EX-YU: AXN ADRIA
@@ -7226,16 +7337,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3619
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3620
 #EXTINF:-1,EX-YU: ZADRUGA 3
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3621
-#EXTINF:-1,EX-YU: eurosport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87094
-#EXTINF:-1,EX-YU: eurosport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87095
-#EXTINF:-1,EX-YU: Arena Sport Premium 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97139
-#EXTINF:-1,EX_YU: Arena Sport Premium 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97140
-#EXTINF:-1,EX-YU: Arena Sport Premium 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/97141
 #EXTINF:-1,EX-YU: ZADRUGA 4
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/114935
 #EXTINF:-1,EX-YU: Prva TV CG
@@ -7560,17 +7661,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115238
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115239
 #EXTINF:-1,EX-YU: Mickey Mouse Clubhouse
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115240
-#EXTINF:-1,NO: EUROSPORT NORGE
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3622
-#EXTINF:-1,NO: EUROSPORT PLUSS 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3623
-#EXTINF:-1,NO: EUROSPORT PLUSS 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3624
-#EXTINF:-1,NO: EUROSPORT PLUSS 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3625
-#EXTINF:-1,NO: EUROSPORT PLUSS 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3626
-
 #EXTINF:-1,NO: ANIMAL PLANET
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3629
 #EXTINF:-1,NO: BBC BIRT
@@ -7826,10 +7916,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3754
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3755
 #EXTINF:-1,DK: VIASAT SERIES
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3756
-#EXTINF:-1,DK: Eurosport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87097
-#EXTINF:-1,DK : Eurosport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87098
 #EXTINF:-1,DK: TV2 Sport X
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/87162
 #EXTINF:-1,HU: AMC
@@ -7884,10 +7970,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3780
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3781
 #EXTINF:-1,HU: DUNA WORLD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3782
-#EXTINF:-1,HU: EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3783
-#EXTINF:-1,HU: EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3784
 #EXTINF:-1,HU: EXTREME SPORTS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/3785
 #EXTINF:-1,HU: FEM 3
@@ -8341,29 +8423,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115014
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115015
 #EXTINF:-1,SRB: Arena Fight
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115016
-#EXTINF:-1,SRB: Arena Sport 1x2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115017
-#EXTINF:-1,SRB: Arena Sport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115037
-#EXTINF:-1,SRB: Arena Sport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115038
-#EXTINF:-1,SRB: Arena Sport 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115039
-#EXTINF:-1,SRB: Arena Sport 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115040
-#EXTINF:-1,SRB: Arena Sport 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115041
-#EXTINF:-1,SRB: Arena Sport 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115018
-#EXTINF:-1,SRB: Arena Sport 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115019
-#EXTINF:-1,SRB: Arena Sport 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115020
-#EXTINF:-1,SRB: Arena Sport 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115021
-#EXTINF:-1,SRB: Arena Sport 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115022
-
 #EXTINF:-1,SRB: Sport Klub ESport
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115024
 #EXTINF:-1,SRB: Sport Klub 4K
@@ -8824,19 +8883,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115059
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115060
 #EXTINF:-1,BH: Moja TV Premier Liga
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115061
-
-#EXTINF:-1,BH: Arena Sport
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115063
-#EXTINF:-1,BH: Arena Sport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115068
-#EXTINF:-1,BH: Arena Sport 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115064
-#EXTINF:-1,BH: Arena Sport Premium 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115065
-#EXTINF:-1,BH: Arena Sport Premium 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115066
-#EXTINF:-1,BH: Arena Sport Premium 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/115067
 #EXTINF:-1,RUS: MUSIC FIRST
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4163
 #EXTINF:-1,RUS: TNT MUSIC
@@ -9354,13 +9400,10 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4428
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4429
 #EXTINF:-1,AF: VIP SUPERSPORT GRANDSTAND
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4430
-
 #EXTINF:-1,AF: VIP SUPERSPORT MAXIMO 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4432
 #EXTINF:-1,AF: VIP SUPERSPORT MOTORSPORT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4433
-#EXTINF:-1,AF: VIP SUPERSPORT PREMIER LEAGUE
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4434
 #EXTINF:-1,AF: VIP SUPERSPORT PSL
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4435
 #EXTINF:-1,AF: VIP SUPERSPORT RUGBY
@@ -9453,16 +9496,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4478
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4479
 #EXTINF:-1,AF: VIP CANAL+ POP
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4480
-#EXTINF:-1,AF: VIP CANAL+ SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4482
-#EXTINF:-1,AF: VIP CANAL+ SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4483
-#EXTINF:-1,AF: VIP CANAL+ SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4484
-#EXTINF:-1,AF: VIP CANAL+ SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4485
-#EXTINF:-1,AF: VIP CANAL+ SPORT 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4486
 #EXTINF:-1,AF: VIP CAPE TOWN TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4487
 #EXTINF:-1,AF: VIP CBS REALITY
@@ -9525,10 +9558,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4513
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4514
 #EXTINF:-1,AF: VIP ESPACE TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4515
-#EXTINF:-1,AF: VIP EUROSPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4516
-#EXTINF:-1,AF: VIP EUROSPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4517
 #EXTINF:-1,AF: VIP FASHION TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4518
 #EXTINF:-1,AF: VIP FOOD NETWORK
@@ -9783,8 +9812,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4643
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4644
 #EXTINF:-1,AF: VIP STAR TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4645
-#EXTINF:-1,AF: VIP CANAL+ SPORT
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4646
 #EXTINF:-1,AF: VIP AFRICA MUSIC
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4647
 #EXTINF:-1,AF: VIP MTV MUSIC 24
@@ -10080,7 +10107,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/127919
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/127920
 #EXTINF:-1,SAF: SuperSport Golf FHD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/127921
-
 #EXTINF:-1,SAF: SuperSport PSL FHD
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/127923
 #EXTINF:-1,SAF: SuperSport Rugby FHD
@@ -10457,10 +10483,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4899
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4900
 #EXTINF:-1,BR: SPACE
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4901
-#EXTINF:-1,PT: Eurosport 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99481
-#EXTINF:-1,PT: Eurosport 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/99482
 #EXTINF:-1,BR: STUDIO UNIVERSAL
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/4905
 #EXTINF:-1,BR: SYFY
@@ -11828,7 +11850,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5586
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5587
 #EXTINF:-1,USA: VIP USA CW
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5588
-
 #EXTINF:-1,USA: VIP EURONEWS
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5590
 #EXTINF:-1,USA: VIP CINEMAX
@@ -11861,8 +11882,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5603
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5604
 #EXTINF:-1,USA: VIP HBO 2 COMEDY
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5605
-#EXTINF:-1,USA: VIP SPORTSNET ONTARIO (PREMIER LEAGUE)
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5606
 #EXTINF:-1,USA: VIP TVG NETWORK
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/5607
 #EXTINF:-1,USA: VIP MOTOR TREND
@@ -14114,20 +14133,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6760
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6761
 #EXTINF:-1,AR: SAMA TV
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6762
-#EXTINF:-1,AR: SSC SPORT 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6763
-#EXTINF:-1,AR: SSC SPORT 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6764
-#EXTINF:-1,AR: SSC SPORT 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6765
-#EXTINF:-1,AR: SSC SPORT 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6766
-#EXTINF:-1,AR: SSC SPORT 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6767
-#EXTINF:-1,AR: SSC SPORT 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6768
-#EXTINF:-1,AR: SSC SPORT 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6769
 #EXTINF:-1,AR: STAR 8
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/6770
 #EXTINF:-1,AR: STAR CINEMA 1
@@ -16573,7 +16578,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25021
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25022
 #EXTINF:-1,AU: AUSTRALIA CHANNEL
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25023
-
 #EXTINF:-1,AU: ESPN 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25026
 #EXTINF:-1,AU: ESPN 2
@@ -17126,14 +17130,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25315
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25316
 #EXTINF:-1,NO: TV 2 Sport Premium 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25317
-#EXTINF:-1,NO: Eurosport Pluss 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25318
-#EXTINF:-1,NO: Eurosport Pluss 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25319
-#EXTINF:-1,NO: Eurosport Pluss 3
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25320
-#EXTINF:-1,NO: Eurosport Pluss 4
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25321
 #EXTINF:-1,NO: V Film Premiere
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25322
 #EXTINF:-1,NO: V Film Action
@@ -17144,22 +17140,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25324
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25325
 #EXTINF:-1,NO: V Series
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25326
-#EXTINF:-1,NO: Eurosport Pluss 5
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25327
-#EXTINF:-1,NO: Eurosport Pluss 6
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25328
-#EXTINF:-1,NO: Eurosport Pluss 7
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25329
-#EXTINF:-1,NO: Eurosport Pluss 8
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25330
-#EXTINF:-1,NO: Eurosport Pluss 9
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25331
-#EXTINF:-1,NO: Eurosport Pluss 10
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25332
-#EXTINF:-1,NO: Eurosport Pluss 11
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25333
-#EXTINF:-1,NO: Eurosport Pluss 12
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25334
 #EXTINF:-1,NO: NRK1 Nordnytt
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/25335
 #EXTINF:-1,NO: NRK1 Nordland
@@ -18962,7 +18942,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34334
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34335
 #EXTINF:-1,IDS: ANIMAX VIP
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34336
-
 #EXTINF:-1,IDS: FOX SPORTS 1 VIP
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34338
 #EXTINF:-1,IDS: FOX SPORTS 2 VIP
@@ -19321,7 +19300,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34607
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34608
 #EXTINF:-1,MY: FOX SPORTS 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34609
-
 #EXTINF:-1,MY: EUROSPORT
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34611
 #EXTINF:-1,MY: WWE
@@ -19395,7 +19373,6 @@ http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34645
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34646
 #EXTINF:-1,MY: HBO SIGNATURE
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34647
-
 #EXTINF:-1,MY: ASTRO ARENA 2
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34649
 #EXTINF:-1,MY: GO SHOP
