@@ -48,7 +48,6 @@ https://webhdrunns.mizhls.ru/lb/premium462/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium554/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Sky UNO Italy" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky UNO Italy
 https://webhdrunns.mizhls.ru/lb/premium881/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 #EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="NZ | Sky Sport",Sky Sport Select NZ
 https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Sky Sport 1 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="NZ | Sky Sport",Sky Sport 1 NZ
@@ -69,11 +68,6 @@ https://webhdrunns.mizhls.ru/lb/premium594/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Sky Sport 9 NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="NZ | Sky Sport",Sky Sport 9 NZ
 https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-###### SPORT EROPA
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5M4MF7DegLv5vGBipShe8JSUvotopsJZH3w&s
-#######
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NorpM-TYyKKoFB7r-W7axeT-4jt4jbWA4g&s" group-title="SPORT EROPA", TNT SPORT 1
 https://jihulab.com/iptv2571913/inal-iptv/eropa/-/raw/main/Tntsport1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NorpM-TYyKKoFB7r-W7axeT-4jt4jbWA4g&s" group-title="SPORT EROPA", TNT SPORT 2
@@ -82,7 +76,6 @@ https://jihulab.com/iptv2571913/inal-iptv/eropa/-/raw/main/Tntsport2.m3u8
 https://jihulab.com/iptv2571913/inal-iptv/eropa/-/raw/main/Tntsport3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NorpM-TYyKKoFB7r-W7axeT-4jt4jbWA4g&s" group-title="SPORT EROPA", TNT SPORT 4
 https://jihulab.com/iptv2571913/inal-iptv/eropa/-/raw/main/Tntsport4.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SPORT EROPA", SKY SPORT UK ACTION
 https://jihulab.com/iptv2571913/inal-iptv/eropa/-/raw/main/SkysportactionUK.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SPORT EROPA", SKY SPORT UK ARENA
@@ -123,7 +116,6 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportITnba00.m3u
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportITtennis00.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/2560px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="SPORT EROPA", SKY SPORT IT UNO
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportITuno00.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="SPORT EROPA", SKY SPORT UK ACTION
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportUKaction00.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="SPORT EROPA", SKY SPORT UK ARENA
@@ -142,7 +134,6 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportUKmainevent
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportUKmix00.m3u8
 #EXTINF:-1 tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="SPORT EROPA", SKY SPORT UK PREMIER LEAGUE
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/skysportUKpremierleague00.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png" group-title="SPORT EROPA", ARENA SPORT HR 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportHR100.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png" group-title="SPORT EROPA", ARENA SPORT HR 2
@@ -169,7 +160,6 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium10
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium200.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" group-title="SPORT EROPA", ARENA SPORT PREMIUM 3
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium300.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGfbnszCAOwqeIA3fm45ufKLjlnTYZQQvvvwQYIQ7aUsxegguHzjBt-8&s=10" group-title="SPORT EROPA", EUROSPORT UK 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/eurosportUK100.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGfbnszCAOwqeIA3fm45ufKLjlnTYZQQvvvwQYIQ7aUsxegguHzjBt-8&s=10" group-title="SPORT EROPA", EUROSPORT UK 2
@@ -214,7 +204,6 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/canal+PL200.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/canal+PL300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="SPORT EROPA", CANAL+ SPORT PL 4
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/canal+PL400.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORT EROPA", DIGI SPORT RO 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/digisport100.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg" group-title="SPORT EROPA", DIGI SPORT RO 2
@@ -223,7 +212,6 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/digisport200.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/digisport300.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png" group-title="SPORT EROPA", DIGI SPORT RO 4
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/digisport400.m3u8
-
 #EXTINF:-1 tvg-logo="https://tx.gcntv.net/channels/logo/orange-sport-1-hd-.png" group-title="SPORT EROPA", ORANGE SPORT RO 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/orangesport100.m3u8
 #EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2019/10/images.png" group-title="SPORT EROPA", ORANGE SPORT RO 2
@@ -243,10 +231,8 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/playsport300.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/playsport400.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwic07I2gg5ClQ9T-KnFFih2gh11ihk8h8XQ&usqp=CAU" group-title="SPORT EROPA", PLAY SPORT BE GOLF
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/playsportgolf00.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg" group-title="SPORT EROPA", RAI SPORT IT
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/raisport00.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg" group-title="SPORT EROPA", SPORT TV PT 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sporttvPT100.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.zapping-tv.com/wp-content/uploads/2014/07/Sport-TV.jpg?ssl=1" group-title="SPORT EROPA", SPORT TV PT 2
@@ -370,14 +356,11 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/daznDE200.m3u8
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/3ce2727ddf99b7dda9944f418076d370.png" group-title="TES BEIN SPORTS", Bein Sport 1
 #EXTVLCOPT: http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/ab82364ae81896cee4e2fad3979119db.png" group-title="TES BEIN SPORTS", Bein Sport 2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/78433f7181a5d9b20caf860455908db7.png" group-title="TES BEIN SPORTS", Bein Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS1.bi-en.png" group-title="BEIN SPORTS", BEIN SPORTS 1-
 http://jmrk.xyz:3050/arttvsa/pgXKsMwQEc/605231 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS3.bi-en.png" group-title="BEIN SPORTS", BEIN SPORTS 1
@@ -392,7 +375,6 @@ http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59267
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59266 
 #EXTINF:-1 tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS7.bi-en.png" group-title="BEIN SPORTS", BEIN SPORT 7 
 http://vo01.mohdtv.com:8880/voay3710/7zjhih41/59265
-
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="BEIN SPORTS",beIN Sports MENA English 1
 https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="beIN Sports MENA English 2" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="BEIN SPORTS",beIN Sports MENA English 2
@@ -856,18 +838,12 @@ http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/364882.ts
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/364883.ts 
 #EXTINF:-1 tvg-ID="" tvg-name="MY: BEIN SPORTS 3 HD" tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="BEIN SPORTS",MY:BEINSPORTS 3 HD 
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/364884.ts
-
-/////SPORTS CAMPURAN/////
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORT 3", US038:FOX-Sports1
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/3130
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORT 3", US039:FOX-Sports2
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/3129
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORT 3", US088:CBS Sports Network
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/3080
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="SPORT 3", US090:Fox Sports Yes
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/3078
 
@@ -2902,7 +2878,6 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302356
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="MIX SPORTS",INDI|Willow
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165776
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="MIX SPORTS",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="MIX SPORTS",MY: ASTRO SUPERSPORTS 1 HD
